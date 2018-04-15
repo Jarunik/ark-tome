@@ -43,19 +43,19 @@ You can check profit approximations in one of the calculators:
 [Reconnico’s Profit Sharing Calculator](http://calculator.reconnico.com/)
 [Faustbrian’s Profit Sharing Calculator](https://delegates.arkx.io/calculator)
 
-# How much Ark do I need to vote?
+## How much Ark do I need to vote?
 The fee to register your vote is currently 1 Ark. Your remaining balance will decide how much profits you will make. Please check profit sharing calculators. Then you can estimate how long it takes to gain back the fee. It is important to check the delegates proposals. Some do have requirements that you need to fulfill in order to get rewards. Some also deduct the transaction fee to pay out the profit from your profit share. If you can find a good delegate it makes sense to vote even with around 100 Ark. But the entire voting system is subject to the ever changing delegate market. Please educate yourself before voting.
 
-# Is voting a risk for my wallet?
+## Is voting a risk for my wallet?
 No. All you can loose is the 1 Ark voting fee. All other coins will stay in your wallet and you have full control over them. Please do not send coins to delegates! That will not count as vote and you might lose your coins.
 
-# How can I change my vote?
+## How can I change my vote?
 You can remove the vote registration from a delegate (unvote). Then you best restart the desktop client and vote for the delegate of your choice.
 
-# Can I vote for multiple delegates?
+## Can I vote for multiple delegates?
 You can only vote one delegate from one wallet. If you want to support multiple delegates you will have to create more wallets and split up your funds.
 
-#Do i have to re-vote when I receive additional coins in my wallet?
+## Do i have to re-vote when I receive additional coins in my wallet?
 No. The vote contribution will automatically adapt to your wallet balance.
 
 How much do the different transactions cost?
@@ -68,14 +68,14 @@ How much do the different transactions cost?
 ## Why do I need a second passphrase?
 The second passphrases will improve security by adding another 12 words that are needed to control your wallet.
 
-##What use have these “Offline” folders in the wallet?
+## What use have these “Offline” folders in the wallet?
 You can use the offline folders to split-up your funds within a wallet. This allows you to better manage your Ark without paying any fee. The splitup is local to your computer and not stored on the blockchain.
 
-##Do you have more questions?
+## Do you have more questions?
 We got an awesome community willing to help. Please get in contact and ask your question:
 
--- Reddit: https://www.reddit.com/r/ArkEcosystem/
--- Slack Chat: https://ark.io/join-ark-slack
+- Reddit: https://www.reddit.com/r/ArkEcosystem/
+- Slack Chat: https://ark.io/join-ark-slack
 
 And if you can’t get help anywhere please contact your delegate.
 
