@@ -1,5 +1,9 @@
 # ark-tome
 
+[Ark Delegate Report January 2018](ark-delegate-report-january-2018.md)
+
+[Ark Command Line Client](ark-command-line-client.md)
+
 [Ark Blockchain News](ark-blockchain-news.md)
 
 [Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
