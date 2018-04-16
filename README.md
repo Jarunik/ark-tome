@@ -1,10 +1,12 @@
 # ark-tome
 
+[Ark Blockchain News](ark-blockchain-news.md)
+
+[Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
+
 [How to add another Ark based coin to the desktop client](how-to-add-another-ark-based-coin-to-the-desktop-client)
 
 [Ark - How to vote a delegate to get rewards?](ark-how-to-vote-a-delegate-to-get-rewards.md)
-
-[Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
 
 [Launch your own clone chain](launch-your-own-clone-chain.md)
 
