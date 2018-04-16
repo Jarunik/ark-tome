@@ -1,16 +1,18 @@
 # ark-tome
 
-[Ark Chronicles 2018](ark-chronicles-2018.md)
+[First Ark convention public day](irst-ark-convention-public-day.md)
 
-[Ark Delegate Report January 2018](ark-delegate-report-january-2018.md)
+[Ark chronicles 2018](ark-chronicles-2018.md)
 
-[Ark Command Line Client](ark-command-line-client.md)
+[Ark delegate report January 2018](ark-delegate-report-january-2018.md)
 
-[Ark Blockchain News](ark-blockchain-news.md)
+[Ark command line client](ark-command-line-client.md)
 
-[Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
+[Ark blockchain news](ark-blockchain-news.md)
 
-[How to add another Ark based coin to the desktop client](how-to-add-another-ark-based-coin-to-the-desktop-client)
+[Installing and managing an ark node](installing-and-managing-an-ark-node.md)
+
+[How to add another ark based coin to the desktop client](how-to-add-another-ark-based-coin-to-the-desktop-client)
 
 [Ark - How to vote a delegate to get rewards?](ark-how-to-vote-a-delegate-to-get-rewards.md)
 
@@ -18,6 +20,6 @@
 
 [1st community dev meeting](arks-1st-community-developer-meeting.md)
 
-[FAQ september 2017](ark-faq-september-2017.md)
+[FAQ September 2017](ark-faq-september-2017.md)
 
 
