@@ -23,23 +23,19 @@ explain how to add a second Ark Mainnet to the Desktop Client.
 
 #### Launch the Desktop Client
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_VB61rWb05Fl0ZUVzzmGI7A.png)
-<span class="figcaption_hack">Ark Desktop Client</span>
+![1](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_VB61rWb05Fl0ZUVzzmGI7A.png)
 
 #### Manage Networks
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_AxPJHD-PUSLnZ3mLgax9aw.png)
-<span class="figcaption_hack">MANAGE NETWORKS</span>
+![2](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_AxPJHD-PUSLnZ3mLgax9aw.png)
 
 #### Create a new Network
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_iUamo3jCNEQXrKzhNueSqw.png)
-<span class="figcaption_hack">New Network</span>
+![3](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_iUamo3jCNEQXrKzhNueSqw.png)
 
 #### Enter a Name and a Seed Server
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_WnhyOStucT02unz201Lnyg.png)
-<span class="figcaption_hack">Enter a Seed Server</span>
+![4](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_WnhyOStucT02unz201Lnyg.png)
 
 The Seed Server for Ark Mainnet to copy & paste:
 
@@ -54,20 +50,17 @@ You can choose any name you want.
 Additional parameters of the network will be automatically loaded from the seed
 server.
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_GO50yPdab4ZIhQgEdHNLEw.png)
-<span class="figcaption_hack">Save new Network</span>
+![5](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_GO50yPdab4ZIhQgEdHNLEw.png)
 
 #### Switch Network
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_-cEqYwGJs3J4slGi480_SA.png)
-<span class="figcaption_hack">Switching Networks</span>
+![6](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_-cEqYwGJs3J4slGi480_SA.png)
 
 Now that you have multiple networks you can switch between them.
 
 #### Use the new Network and Coin
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_F_tRU4SOLgfX2xqwT_NmNQ.png)
-<span class="figcaption_hack">New Network</span>
+![7](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_F_tRU4SOLgfX2xqwT_NmNQ.png)
 
 You can now use the new network and import or create accounts. As you can see I
 created another Ark mainnet. This means you can also use this feature to create
@@ -75,8 +68,7 @@ different “work-spaces” with different accounts for the same coin.
 
 #### Remove the Network to clean up
 
-![](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_MJCNtvguZgxtbmO-fyCcpQ.png)
-<span class="figcaption_hack">Remove the Network</span>
+![8](/img/how-to-add-another-ark-based-coin-to-the-desktop-client/1_MJCNtvguZgxtbmO-fyCcpQ.png)
 
 You can also remove the additional networks which you do not need anymore.
 
