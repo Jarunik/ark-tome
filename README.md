@@ -3,7 +3,7 @@
 ## Articles
 
 - [ARK Delegate Report March 2018](ark-delegate-report-march-2018.md)
-- [First ARK Convention Public Day](irst-ark-convention-public-day.md)
+- [First ARK Convention Public Day](first-ark-convention-public-day.md)
 - [ARK Chronicles 2018](ark-chronicles-2018.md)
 - [ARK Delegate Report January 2018](ark-delegate-report-january-2018.md)
 - [ARK Command Line Client](ark-command-line-client.md)
