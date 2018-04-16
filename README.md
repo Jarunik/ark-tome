@@ -1,6 +1,6 @@
 # ark-tome
 
-Collection of writings about Ark
+[Ark - How to vote a delegate to get rewards?](ark-how-to-vote-a-delegate-to-get-rewards.md)
 
 [Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
 
