@@ -31,8 +31,9 @@ No. You need to send the Ark to the desktop wallet in order to vote.
 How can I find and chose a delegate?
 The best places to find delegate information are:
 
-https://www.reddit.com/r/ArkDelegates/
-https://forum.ark.io/category/5/delegates
+<https://www.reddit.com/r/ArkDelegates/>
+
+<https://forum.ark.io/category/5/delegates>
 
 ## How much profit will I get from voting?
 You can check profit approximations in one of the calculators:
@@ -74,8 +75,8 @@ You can use the offline folders to split-up your funds within a wallet. This all
 ## Do you have more questions?
 We got an awesome community willing to help. Please get in contact and ask your question:
 
-- Reddit: https://www.reddit.com/r/ArkEcosystem/
-- Slack Chat: https://ark.io/join-ark-slack
+- Reddit: [https://www.reddit.com/r/ArkEcosystem/](https://www.reddit.com/r/ArkEcosystem/)
+- Slack Chat: [https://ark.io/join-ark-slack](https://ark.io/join-ark-slack)
 
 And if you can’t get help anywhere please contact your delegate.
 
