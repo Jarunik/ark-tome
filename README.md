@@ -1,4 +1,6 @@
-# ark-tome
+# ARK Tome
+
+A collection of articles about ARK.
 
 ## Articles
 
@@ -16,4 +18,6 @@
 - [1st Community Developer Meeting](arks-1st-community-developer-meeting.md)
 - [FAQ September 2017](ark-faq-september-2017.md)
 
+## Contribution
 
+Please open a Pull Request if you want to improve something.
