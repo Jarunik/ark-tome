@@ -1,6 +1,8 @@
 # ark-tome
 
-Collection of Writings about Ark
+Collection of writings about Ark
+
+[Installing and managing an Ark node](installing-and-managing-an-ark-node.md)
 
 [Launch your own clone chain](launch-your-own-clone-chain.md)
 
