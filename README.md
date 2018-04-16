@@ -1,5 +1,7 @@
 # ark-tome
 
+[Ark Chronicles 2018](ark-chronicles-2018.md)
+
 [Ark Delegate Report January 2018](ark-delegate-report-january-2018.md)
 
 [Ark Command Line Client](ark-command-line-client.md)
