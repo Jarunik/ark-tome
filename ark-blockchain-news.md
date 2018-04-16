@@ -30,6 +30,8 @@ comfortable but it works:
 It is pretty easy. You just need to install the Ark Desktop Client and get some
 Ark. If you don’t have it yet you can get the Ark Desktop client here:
 
+<https://github.com/ArkEcosystem/ark-desktop/releases>
+
 If you want to buy some Ark you can do so on any Exchange. Here is an example:
 [https://bittrex.com/Market/Index?MarketName=btc-ARK](https://bittrex.com/Market/Index?MarketName=btc-ARK)
 
