@@ -4,7 +4,7 @@ An easy to follow guide with a lot of pictures.
 
 ## Download and install the latest Ark Desktop Client
 
-https://github.com/ArkEcosystem/ark-desktop/releases
+<https://github.com/ArkEcosystem/ark-desktop/releases>
 
 ![Download](/img/ark-how-to-vote-a-delegate-to-get-rewards/01.png)
 
@@ -71,4 +71,4 @@ You will receive some reward sharing depending on the delegates proposal within 
 
 Further information can be found on jarunik’s delegate page:
 
-https://arkcoin.net/
+<https://arkcoin.net/>

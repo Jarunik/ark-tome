@@ -28,7 +28,8 @@ You most likely forgot to confirm the withdrawal. Please check your emails. If i
 ## Can I vote from an exchange?
 No. You need to send the Ark to the desktop wallet in order to vote.
 
-How can I find and chose a delegate?
+## How can I find and chose a delegate?
+
 The best places to find delegate information are:
 
 <https://www.reddit.com/r/ArkDelegates/>

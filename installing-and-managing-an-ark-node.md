@@ -5,7 +5,7 @@ Installing an Ark node is pretty easy. But you will need to get comfortable with
 ## Getting your own Server
 Register on vultr or any other virtual private server (vps) provider.
 
-https://vultr.com
+<https://vultr.com>
 
 Deploy a server:
 
@@ -17,7 +17,7 @@ Deploy a server:
 
 Once the server is deployed you can login with any SSH client. I recommend MobaXterm.
 
-https://mobaxterm.mobatek.net/
+<https://mobaxterm.mobatek.net/>
 
 You can connect by:
 
@@ -66,7 +66,7 @@ Ark Commander helps you to manage your Ark node and get started with it. The nex
 
 A longer version of this guide can be found here:
 
-https://blog.ark.io/how-to-setup-a-node-for-ark-and-a-basic-cheat-sheet-4f82910719da
+<https://blog.ark.io/how-to-setup-a-node-for-ark-and-a-basic-cheat-sheet-4f82910719da>
 
 ## Operating your Ark node
 
@@ -251,7 +251,7 @@ You should harden it’s security if you intend to run your server for longer.
 
 The long version can be found here:
 
-https://blog.ark.io/how-to-secure-your-ark-node-541254028616
+<https://blog.ark.io/how-to-secure-your-ark-node-541254028616>
 
 ### Adapt SSH configuration
 
@@ -309,11 +309,11 @@ sudo service fail2ban restart
 ## Register your node on Arkstats
 Arkstats shows the current state of the Ark network. It is pretty easy to list your node there.
 
-https://arkstats.net/
+<https://arkstats.net/>
 
 You can find the installation guide on github.
 
-https://github.com/dafty/arkstats-reporter
+<https://github.com/dafty/arkstats-reporter>
 
 Short installation guide:
 
@@ -328,5 +328,7 @@ bash build.sh
 If you made it this far please take some time and give me some feedback. I would really love to improve and extend this guide and include some more useful information.
 
 You can find me in all Ark communities as jarunik.
+
 My website with all my Ark information can be found here:
-https://arkcoin.net
+
+<https://arkcoin.net>

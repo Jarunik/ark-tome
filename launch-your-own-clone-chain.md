@@ -2,7 +2,7 @@
 
 This guide is outdated unless you want to do it manually. You can use the Ark-Deployer for easier launching of your own Ark based chain now:
 
-https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4
+<https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4>
 
 
 This guide is to help you get setup with your own ARK bridgechain. It will focus on launching your own ARK clone…
@@ -30,7 +30,7 @@ command
 ## Step 1: Create Virtual Private Server (VPS)
 Create a new VPS from the provider of your choice. 
 
-Example: http://www.vultr.com	
+Example: <http://www.vultr.com>
 
 What you need is any Ubuntu 16.04 low specification VPS.
 
@@ -249,16 +249,19 @@ You have a running blockchain now.
 ## Step 9: Check API of your new node
 
 You can now access your blockchain on your ip:
-http://45.76.126.42:4100/api/peers/version
+
+<http://45.76.126.42:4100/api/peers/version>
 
 You can also list the genesis delegates which run your chain:
-http://45.76.126.42:4100/api/delegates
+
+<http://45.76.126.42:4100/api/delegates>
 
 
 ![Delegates through the API](/img/launch-your-own-chain/lyoc-11.png)
 
 If you want to access other information you can read the API documentation and try yourself:
-https://ark.brianfaust.me/
+
+<https://ark.brianfaust.me/>
 
 If you want to get the passphrases and config files you can all find them here:
 
@@ -274,16 +277,16 @@ Launching an own chain is really simple.
 Here are some things you can do next:
 
 - Create your own fork of ark-node and adapt it:
-https://github.com/ArkEcosystem/ark-node
+<https://github.com/ArkEcosystem/ark-node>
 - Customization of the blockchain parameters:
-https://github.com/ArkEcosystem/ark-node/blob/development/helpers/constants.js
+<https://github.com/ArkEcosystem/ark-node/blob/development/helpers/constants.js>
 - Adding extra delegate nodes to your network
 - Setup an explorer to browse your chain:
-https://github.com/ArkEcosystem/old-ark-explorer
+<https://github.com/ArkEcosystem/old-ark-explorer>
 - Add a new network to your desktop client and create transactions.
 The passphrase of the wallet with 21MM is in the demo folder.
 - Adapt the clone creation script to your needs:
-https://github.com/ArkEcosystem/ark-node/blob/development/tasks/createGenesisBlock.js
+<https://github.com/ArkEcosystem/ark-node/blob/development/tasks/createGenesisBlock.js>
 
 ![Delegates in Explorer](/img/launch-your-own-chain/lyoc-12.png)
 
@@ -293,10 +296,10 @@ I hope I could help you with this guide.
 
 The short version can be found here: 
 
-https://github.com/Jarunik/ark-node-guide
+<https://github.com/Jarunik/ark-node-guide>
 
 That is it. You made it to the end.
 
 Jarunik
 
-https://arkcoin.net
+<https://arkcoin.net>

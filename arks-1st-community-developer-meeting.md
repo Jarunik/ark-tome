@@ -9,7 +9,7 @@ Points discussed in the Meeting:
 - Multiple output types per transaction
 - Fee reduction
 
-Join our Developer channel: https://gitter.im/ark-developers/Lobby
+Join our Developer channel: <https://gitter.im/ark-developers/Lobby>
 
 **François-Xavier Thoorens @fix** 10:17
 
@@ -167,7 +167,7 @@ What about a way to notify users when the delegate they are voting for misses bl
 
 **François-Xavier Thoorens @fix** 14:33
 
-here is a “basic” filter to prevent forging from pi https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/nodeManager.js#L100
+here is a “basic” filter to prevent forging from pi <https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/nodeManager.js#L100>
 
 **Alex Barnsley @alexbarnsley** 14:33
 
@@ -189,7 +189,7 @@ Better specs will not help to get better responses from peers
 
 **François-Xavier Thoorens @fix** 14:36
 
-**@jarunik** here https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/nodeManager.js#L100
+**@jarunik** here <https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/nodeManager.js#L100>
 
  **@jarunik** 14:36
 
@@ -197,7 +197,7 @@ How will better spec prevent fork 6?
 
 **François-Xavier Thoorens @fix** 14:36
 
-https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/loader.js#L668
+<https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/loader.js#L668>
 
 **@dafty-1** 14:37
 
@@ -257,7 +257,7 @@ do we know where most the nodes are hosted at?
 
 **François-Xavier Thoorens @fix** 14:43
 
-for instance here https://node1.arknet.cloud/api/peers
+for instance here <https://node1.arknet.cloud/api/peers>
 
 **Brian Faust @faustbrian** 14:43
 
@@ -405,7 +405,7 @@ at the moment people just try to get to their nodes asap to rebuild manually eve
 
 **François-Xavier Thoorens @fix** 14:57
 
-mm could be one of these https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/delegates.js#L300
+mm could be one of these <https://github.com/ArkEcosystem/ark-node/blob/c1df3762a4301deab54f7ab0f7935a7975497cd5/modules/delegates.js#L300>
 
  **@jarunik** 14:58
 
@@ -451,7 +451,7 @@ aip11 + dafty proposal
 
 **François-Xavier Thoorens @fix** 15:03
 
-for the record: https://github.com/ArkEcosystem/AIPs/blob/master/AIPS/aip-11.md and https://github.com/dafty-1/AIPs/blob/master/AIPS/aip-11.md
+for the record: <https://github.com/ArkEcosystem/AIPs/blob/master/AIPS/aip-11.md> and <https://github.com/dafty-1/AIPs/blob/master/AIPS/aip-11.md>
 
 **Brian Faust @faustbrian** 15:07
 
@@ -791,4 +791,4 @@ and have a good coding week
 
 ---
 
-Join our Developer channel: https://gitter.im/ark-developers/Lobby
+Join our Developer channel: <https://gitter.im/ark-developers/Lobby>
