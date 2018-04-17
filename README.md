@@ -4,6 +4,7 @@ A collection of articles about ARK.
 
 ## Articles
 
+- [Attending openGeneva hackathon with ARK](attending-open-geneva-hackathon-with-ark.md)
 - [ARK Delegate Report March 2018](ark-delegate-report-march-2018.md)
 - [First ARK Convention Public Day](first-ark-convention-public-day.md)
 - [ARK Chronicles 2018](ark-chronicles-2018.md)
